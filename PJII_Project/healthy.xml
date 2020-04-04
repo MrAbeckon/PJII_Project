@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<humans>
+  <human first_name="Test3" last_name="Testing" age="3" weight="3" height="3" high_risk="False" in_quarantine="False" condition="healthy" />
+  <human first_name="Test2" last_name="Testing" age="2" weight="2" height="2" high_risk="True" in_quarantine="False" condition="healthy" />
+  <human first_name="Test1" last_name="Testing" age="1" weight="1" height="1" high_risk="False" in_quarantine="False" condition="healthy" />
+</humans>
